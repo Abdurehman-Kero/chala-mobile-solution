@@ -1,4 +1,4 @@
-# 📱 Chala Mobile - E-commerce & Repair Management System
+# 📱 Chala Mobile Solution - E-commerce & Repair Management System
 
 A full-stack MERN application for mobile phone and electronics e-commerce with integrated repair ticket management system.
 
@@ -72,6 +72,11 @@ A full-stack MERN application for mobile phone and electronics e-commerce with i
 - npm or yarn
 
 ### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/Abdurehman-Kero/chala-mobile-solution.git
+cd chala-mobile-solution
+```
 
 ### Step 2: Install Dependencies
 
